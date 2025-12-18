@@ -27,7 +27,7 @@
 <body>
     <div class="container py-5">
         <div class="text-center mb-5">
-            <h1 class="display-5 fw-bold text-primary">Bài tập cuối kỳ</h1>
+                        <h1 class="display-5 fw-bold text-primary">Bài ktra - DH52201421 - ca2</h1>
             <p class="lead text-muted">Danh sách sản phẩm</p>
             <hr class="w-25 mx-auto border-primary border-3 opacity-75">
         </div>
